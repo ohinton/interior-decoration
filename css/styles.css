@@ -1,10 +1,24 @@
 .column {
-  width: 300px;
+  width: 350px;
+  height: 350px;
   float: left;
-  padding: 100px;
+  padding: 50px;
+
   }
 
 .size {
-  width: 400px;
+  width: 350px;
   height: auto;
+}
+
+.col1 {
+  background-color: red;
+}
+
+.col2 {
+  background-color: orange;
+}
+
+.col3 {
+  background-color: green;
 }
